@@ -81,7 +81,7 @@ footer{background:var(--navy-dark);color:#cfe0f5;text-align:center;font-size:13p
       <a class="btn btn-outline" href="#contact">Get In Touch</a>
     </div>
     <div class="hero-photo">
-      <img src="images\photo.jpg" alt="Nickonne Carlo B. Escaran">
+      <img src="main\images\photo.jpg" alt="Nickonne Carlo B. Escaran">
     </div>
   </div>
 </div>
